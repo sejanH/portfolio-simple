@@ -6,8 +6,8 @@
 	<link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 	<link rel="stylesheet" href="css/bootstrap.css" /> 
-	<script type="text/javascript" src="css/jquery.js"></script>
-	<script type="text/javascript" src="css/bootstrap.js"></script>
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
 	<link rel="icon" type="image/x-icon" href="img/favicon.ico"/> 
 <style type="text/css">
 	.hide{
