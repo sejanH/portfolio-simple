@@ -21,9 +21,10 @@
 <script type="text/javascript">
 	$('body').on('click','nav a', function(e) {
     $('#main').removeClass('hide');
+	$('#main').children().slideUp('slow');
     $('#main').children().addClass('hide');
     $('#home').addClass('hide');
-    $($(this).attr('href')).slideDown('slow').removeClass('hide');
+    $($(this).attr('href')).slideDown('slower').removeClass('hide');
     e.preventDefault(); 
 });
 </script>
