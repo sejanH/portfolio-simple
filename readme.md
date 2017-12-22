@@ -7,6 +7,6 @@ A simple portfolio template that you can use
 * Bootstrap.js v3.3.7
 
 
-for demo view [visit live](http://about.sejan.xyz)
+for demo view [visit live](http://sejan.000webhostapp.com/about/)
 
 ** Changing jQuery version may cause malfunction
